@@ -1,3 +1,3 @@
-from qids import *
+from qid_for_names import values_list
 
-print(qids_names)
+print(values_list)
