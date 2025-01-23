@@ -1,0 +1,2 @@
+name_1 = "companiesmarketcap_com_Companies_ranked_by_Market_Cap_CompaniesMarketCap"
+name_2 = "Итог_по_globaldata_для_просмотра_конечн"
